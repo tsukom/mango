@@ -36,6 +36,22 @@
         "tsukom": "/proxy/api/imgur/chapter/Hiimgfu/"
       },
       "last_updated": "1658109251"
+    },
+    "5": {
+      "title": "Introduce",
+      "volume": "1",
+      "groups": {
+        "tsukom": "/proxy/api/imgur/chapter/4nlbfgb/"
+      },
+      "last_updated": "1658163688"
+    },
+    "6": {
+      "title": "Fever",
+      "volume": "1",
+      "groups": {
+        "tsukom": "/proxy/api/imgur/chapter/pXBTbzY/"
+      },
+      "last_updated": "1658163830"
     }
   }
 }
