@@ -68,6 +68,14 @@
         "tsukom": "/proxy/api/imgur/chapter/nr1S7vv/"
       },
       "last_updated": "1659754788"
+    },
+    "9": {
+      "title": "Cooking",
+      "volume": "2",
+      "groups": {
+        "tsukom": "/proxy/api/imgur/chapter/80uE87l/"
+      },
+      "last_updated": "1659838281"
     }
   }
 }
