@@ -84,6 +84,14 @@
         "tsukom": "/proxy/api/imgur/chapter/cAyuCMd/"
       },
       "last_updated": "1660288290"
+    },
+    "11": {
+      "title": "The First Step",
+      "volume": "2",
+      "groups": {
+        "tsukom": "/proxy/api/imgur/chapter/gB5Wr64/"
+      },
+      "last_updated": "1660362128"
     }
   }
 }
