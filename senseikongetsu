@@ -108,6 +108,14 @@
         "tsukom": "/proxy/api/imgur/chapter/iVwvyld/"
       },
       "last_updated": "1660535342"
+    },
+    "14": {
+      "title": "13 Years Old",
+      "volume": "3",
+      "groups": {
+        "tsukom": "/proxy/api/mangadex/chapter/6554042e-7890-44d5-8342-5687c2784ba5/"
+      },
+      "last_updated": "1663762637"
     }
   }
 }
