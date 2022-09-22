@@ -116,6 +116,14 @@
         "tsukom": "/proxy/api/mangadex/chapter/6554042e-7890-44d5-8342-5687c2784ba5/"
       },
       "last_updated": "1663762637"
+    },
+    "15": {
+      "title": "Room No. 101",
+      "volume": "3",
+      "groups": {
+        "tsukom": "/proxy/api/mangadex/chapter/0c9192ee-19ff-4759-a344-46ac63a3f515/"
+      },
+      "last_updated": "1663862773"
     }
   }
 }
