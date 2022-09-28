@@ -124,6 +124,14 @@
         "tsukom": "/proxy/api/mangadex/chapter/0c9192ee-19ff-4759-a344-46ac63a3f515/"
       },
       "last_updated": "1663862773"
+    },
+    "16": {
+      "title": "High School 3rd Year",
+      "volume": "3",
+      "groups": {
+        "tsukom": "/proxy/api/mangadex/chapter/379e7de1-b5be-43a3-9bec-b5ea24134f86/"
+      },
+      "last_updated": "1664365769"
     }
   }
 }
