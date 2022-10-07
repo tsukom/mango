@@ -156,6 +156,22 @@
         "tsukom": "/proxy/api/mangadex/chapter/1aec3686-b217-4cff-9e6a-32c299f57c5d/"
       },
       "last_updated": "1664679021"
+    },
+    "20": {
+      "title": "Catch a Breath",
+      "volume": "3",
+      "groups": {
+        "tsukom": "/proxy/api/mangadex/chapter/50f1a422-56d9-4e40-bba1-bfa89af33484/"
+      },
+      "last_updated": "1665139648"
+    },
+    "20.5": {
+      "title": "Extra",
+      "volume": "3",
+      "groups": {
+        "tsukom": "/proxy/api/mangadex/chapter/f61d2aba-a084-4b7b-8058-7dfb0178a1e3/"
+      },
+      "last_updated": "1665140235"
     }
   }
 }
